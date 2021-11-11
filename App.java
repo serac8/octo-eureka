@@ -7,6 +7,7 @@ public class App {
     System.out.println("Contenido 2b");
     System.out.println("10/11/2021");
     System.out.println("León");
+    System.out.println("Azul");
   }
   
 }
